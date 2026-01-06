@@ -28,7 +28,8 @@
 
 ![MoonStar CyberAI Interface](./assets/screenshot.png)
 
-> Add your screenshot to `./assets/screenshot.png`
+<img width="2553" height="1433" alt="image" src="https://github.com/user-attachments/assets/eb30819c-05b0-429b-a6df-4fc6a9c7243e" />
+
 
 ---
 
